@@ -2,20 +2,25 @@
 
 ## Blockchain
 
-1. ether.js
+1. [ether.js](https://docs.ethers.io/v5/getting-started/)
+   - Connect to Metamask
+   - Connect to Ethereum Node Via JSON-RPC
+   - Querying Blockchain
+   - Contract Integration
+   - Signing Message
 
 ## Data Structure
 
 1. [Lodash](https://lodash.com/)
-   1. Array Manipulation
-   2. Collection Manipulation
-   3. Function Manipulation
-   4. Lang Manipulation
-   5. Math Manipulation
-   6. Number Manipulation
-   7. Object Manipulation
-   8. Seq Manipulation
-   9. String Manipulation
-   10. Util Manipulation
+   - Array Manipulation
+   - Collection Manipulation
+   - Function Manipulation
+   - Lang Manipulation
+   - Math Manipulation
+   - Number Manipulation
+   - Object Manipulation
+   - Seq Manipulation
+   - String Manipulation
+   - Util Manipulation
 2. 
 3. 
