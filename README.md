@@ -8,6 +8,9 @@
    - Querying Blockchain
    - Contract Integration
    - Signing Message
+2. [eth-crypto](https://github.com/pubkey/eth-crypto)
+   - Creating Keys
+   - Sign Transaction
 
 ## Data Structure
 
