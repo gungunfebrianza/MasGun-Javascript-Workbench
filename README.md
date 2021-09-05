@@ -1,5 +1,14 @@
 # MasGun Javascript Workbench
 
+## Amazon Web Services - Serverless
+1. [AWS Serverless CI/CD](https://github.com/aws-samples/aws-serverless-cicd-workshop)
+   - Create Cloud9 Workspace
+   - Create Serverless Application Model (SAM)
+   - SAM CLI Local Development
+   - Deployment
+   - Pipeline
+   - Canary Deployment
+
 ## Blockchain
 
 1. [ether.js](https://docs.ethers.io/v5/getting-started/)
