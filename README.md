@@ -1,4 +1,8 @@
-# MasGun Javascript Workbench
+# Mas Gun Javascript Workbench
+
+
+
+---
 
 ## Amazon Web Services - Serverless
 1. [AWS Serverless CI/CD](https://github.com/aws-samples/aws-serverless-cicd-workshop)
@@ -8,6 +12,11 @@
    - Deployment
    - Pipeline
    - Canary Deployment
+2. Reserved
+
+
+
+---
 
 ## Blockchain
 
@@ -20,6 +29,10 @@
 2. [eth-crypto](https://github.com/pubkey/eth-crypto)
    - Creating Keys
    - Sign Transaction
+
+
+
+---
 
 ## Data Structure
 
@@ -34,5 +47,16 @@
    - Seq Manipulation
    - String Manipulation
    - Util Manipulation
-2. 
-3. 
+
+
+
+---
+
+## Math
+
+1. [decimal.js](https://mikemcl.github.io/decimal.js)
+   - Addition, Subtraction, Division & Multiplication Methods
+   - Precision, Rounding, Modulo Properties
+   - Is Not a Number ?, Is Integer?, Is Negative?, Is Positive?, Is Finite?, Is Zero?
+   - To Binary, To Fixed, To Fraction, To Precision, To Exponential, To JSON, To Nearest.
+2. Reserved
